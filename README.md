@@ -1,4 +1,4 @@
-# fastApiProject_2
+# fastApiTutorial
 
 ## プロジェクトで行っていること
 FastAPIの公式ドキュメントのチュートリアル
